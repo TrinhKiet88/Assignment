@@ -1,0 +1,11 @@
+led_output.c:18:6:init	4	static
+led_output.c:31:6:auto_green_red	8	static
+led_output.c:52:6:auto_amber_red	8	static
+led_output.c:72:6:auto_red_green	8	static
+led_output.c:91:6:auto_red_amber	8	static
+led_output.c:114:6:modify_red_led	8	static
+led_output.c:134:6:modify_green_led	8	static
+led_output.c:153:6:modify_amber_led	8	static
+led_output.c:172:6:clear_all_led	8	static
+led_output.c:181:6:manual_green_red	8	static
+led_output.c:198:6:manual_red_green	8	static
